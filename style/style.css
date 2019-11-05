@@ -1,0 +1,189 @@
+
+.background-img
+{
+	background-image: url("../images/blue-bck.jpeg");
+}
+.first-part1
+{
+	background-color: white;
+}
+.col-lg-1 img
+{
+   width: 30px;
+   height: 30px;
+}
+.col-lg-2
+{
+	margin-top: 20px;
+	padding-left: 30px;
+}
+.col-lg-2 img
+{
+    width: 170px;
+}
+.banner h1,p
+{
+	color: white;
+	padding-left: 20px;
+}
+.second-part
+{
+	background-color: red;
+	color: white;
+}
+
+}
+
+.col-md-4 h1
+{
+	padding-left: 50px;
+}
+.background-img2
+{
+	background-image: url("../images/sky.jpg");
+}
+.image img
+{
+	width: 150px;
+	height: 150px;
+	margin-left: 100px;
+	margin-top: 30px;
+}
+.red-afer
+{
+	background-color: white;
+}
+.para h1,p
+{
+	text-align: center;
+	color: black;
+}
+.abc p
+{
+	color: red;
+}
+.media-object 
+{
+	width: 100px;
+	height: 100px;
+}
+.head
+{
+	margin-left: 30px;
+}
+.head h3
+{
+    color: blue;
+}
+.colr p 
+{
+	color: red;
+}
+.kit
+{
+	padding: 10px;
+}
+.img-left img
+{
+	width: 100px;
+	height: 100px;
+}
+.para p
+{
+	text-align: left;
+}
+.para1 p{
+	color: red;
+	text-align: left;
+}
+.date
+{
+	float: left;
+}
+.para2
+{
+	float: right;
+	width: 75%;
+    
+}
+.clearfix
+{
+	clear: both;
+}
+.health
+{
+	background-color: aqua;
+	text-align: center;
+	padding: 10px;
+}
+.first
+{
+	float: left;
+}
+.second
+{
+	float: right;
+}
+.image-left img
+{
+	width: 387px;
+	height: 500px;
+}
+.image-left
+{
+	float: left;
+}
+.pics-in-row
+{
+	background-color: white;
+}
+.planning
+{
+	float: right;
+
+}
+.planning p
+{
+	text-align: left;
+}
+.ambulence
+{
+	text-align: center;
+}
+.h3 h3
+{
+	color: red;
+}
+.patients
+{
+	float: left;
+}
+.research
+{
+	float: right;
+}
+.pre-end
+{
+	float: left;
+}
+.pre-end2
+{
+	float: left;
+}
+.end
+{
+	background-color: white;
+}
+.social-media
+{
+	clear: both;
+	float: right;
+}
+.research h6
+{
+	font-weight: bold;
+}
+.patients h6
+{
+	font-weight: bold;
+}
